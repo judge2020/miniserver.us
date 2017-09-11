@@ -1,0 +1,6 @@
+discord.py
+asyncio
+cloudflare
+requests
+PyMySQL
+peewee
